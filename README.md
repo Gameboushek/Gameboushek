@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---------------
-I'm just trying to ge my shit together right now and stop being a fucking failure.
+I'm just trying to ge my shit together right now and stop being a fucking failure. \n
 Hopefully i can change this text in near future :>.
 Wish me luck.
 <!--
