@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---------------
-I'm just trying to ge my shit together right now and stop being a fucking failure. \n
-Hopefully i can change this text in near future :>.
+I'm just trying to ge my shit together right now and stop being a fucking failure. 
+Hopefully i can change this text in near future :>. 
 Wish me luck.
 <!--
 **Gameboushek/Gameboushek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
